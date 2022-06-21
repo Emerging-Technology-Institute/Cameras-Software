@@ -1,0 +1,51 @@
+body{
+    padding-top:40px;
+    margin-top: 0px;
+    background:  #212529 !important;
+ }
+
+ .hidden {
+  display: none;
+}
+
+#canvasOutput {
+  width: 100%;
+}
+
+h1 {
+color: #EAEAEA;
+}
+
+#container {
+    margin: 15px auto;
+    border: 10px #333 solid;
+}
+#videoInput {
+    background-color: #666;
+}
+
+#messagebox {
+    height: 300px;
+    overflow-y: auto;
+}
+
+
+.message {
+  padding: 20px;
+  font-weight: bold;
+  color: white;
+}
+
+h2 {
+    color: #ffffff;
+  }
+
+.card-text{
+    color: black;
+}
+
+.card-title{
+    color: black;
+}
+
+
